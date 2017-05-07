@@ -34,7 +34,7 @@ minecraft {
 }
 
 dependencies {
-	compile files("ValkyrienWarfareVersions/ValkyrienWarfareRevamped-1.10.2-0.8.79999-0-deobf.jar")
+	compile files("ValkyrienWarfareVersions/ValkyrienWarfareRevamped-1.10.2-0.8.79999-0-dev.jar")
 	// deobfProvided  files("ValkyrienWarfareVersions/ValkyrienWarfareRevamped-1.10.2-0.8.79999-0-sources.jar")
 }
 

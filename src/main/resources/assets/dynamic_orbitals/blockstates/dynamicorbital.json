@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "dynamic_orbitals:dynamicorbital" }
+    }
+}
