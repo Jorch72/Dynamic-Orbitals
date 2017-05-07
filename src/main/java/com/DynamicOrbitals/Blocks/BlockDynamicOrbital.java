@@ -31,7 +31,7 @@ public class BlockDynamicOrbital extends Block implements ITileEntityProvider{
 		PhysicsWrapperEntity shipOn = ValkyrienWarfareMod.physicsManager.getObjectManagingPos(worldIn, pos);
 		if(shipOn != null){
 			//Or open the GUI
-			return false;
+			return true;
 		}
 
 		if(!worldIn.isRemote){
