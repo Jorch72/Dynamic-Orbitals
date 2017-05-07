@@ -1,4 +1,6 @@
-package com.DynamicOrbitals;
+package com.DynamicOrbitals.Blocks;
+
+import com.DynamicOrbitals.DynamicOrbitals;
 
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;

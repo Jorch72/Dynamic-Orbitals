@@ -1,0 +1,6 @@
+{
+    "parent":"dynamic_orbitals:item/standard_item",
+    "textures": {
+        "layer0":"Minecraft:items/carrot_on_a_stick"
+    }
+}

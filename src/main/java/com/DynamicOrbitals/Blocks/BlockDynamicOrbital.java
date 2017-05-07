@@ -1,6 +1,8 @@
-package com.DynamicOrbitals;
+package com.DynamicOrbitals.Blocks;
 
 import javax.annotation.Nullable;
+
+import com.DynamicOrbitals.TileEntities.TileEntityDynamicOrbital;
 
 import ValkyrienWarfareBase.ValkyrienWarfareMod;
 import ValkyrienWarfareBase.PhysicsManagement.PhysicsWrapperEntity;

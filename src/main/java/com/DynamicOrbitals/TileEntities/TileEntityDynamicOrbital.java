@@ -1,7 +1,6 @@
-package com.DynamicOrbitals;
+package com.DynamicOrbitals.TileEntities;
 
 import ValkyrienWarfareBase.ValkyrienWarfareMod;
-import ValkyrienWarfareBase.API.Vector;
 import ValkyrienWarfareBase.Physics.PhysicsCalculationsOrbital;
 import ValkyrienWarfareBase.PhysicsManagement.PhysicsWrapperEntity;
 import ValkyrienWarfareBase.PhysicsManagement.ShipType;
